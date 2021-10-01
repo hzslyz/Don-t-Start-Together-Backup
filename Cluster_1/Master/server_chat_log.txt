@@ -1,0 +1,15 @@
+[00:01:55]: [Join Announcement] Hex AI
+[00:02:23]: [Join Announcement] 信徒
+[01:39:08]: [Leave Announcement] 信徒
+[01:45:14]: [Death Announcement] Hex AI 死于： 黑暗。它变成了可怕的鬼魂！
+[01:45:47]: [Join Announcement] 信徒
+[01:49:32]: [Death Announcement] 信徒 死于： 饥饿。它变成了可怕的鬼魂！
+[01:51:30]: [Resurrect Announcement] Hex AI 复活自： 试金石.
+[01:51:43]: [Leave Announcement] 信徒
+[01:52:41]: [Join Announcement] 信徒
+[01:53:39]: [Death Announcement] Hex AI 死于： 黑暗。它变成了可怕的鬼魂！
+[02:16:35]: [Skin Announcement] Hex AI legs_waxwell_vampire
+[03:33:04]: [Death Announcement] Hex AI 死于： 饥饿。它变成了可怕的鬼魂！
+[03:33:31]: [Resurrect Announcement] Hex AI 复活自： 试金石.
+[03:38:29]: [Leave Announcement] 信徒
+[03:38:32]: [Leave Announcement] Hex AI

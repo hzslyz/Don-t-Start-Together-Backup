@@ -1,0 +1,7 @@
+KLEI     1 return {
+  baseid="SURVIVAL_TOGETHER",
+  desc="",
+  name="Easy Mode - 2",
+  overrides={  },
+  version=1 
+}
